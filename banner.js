@@ -1,3 +1,5 @@
+(function(){
+  'use strict';
  window.Banner = function Banner(keyword, distance, k, colors, fontSize, font){
     var canvas;
     var context;
@@ -149,3 +151,5 @@
       context.closePath();
       context.fill();8                             }
   };
+})() 
+

@@ -7,3 +7,4 @@ var banner = new Banner('word', 5, 2, colors, 100, 'Arial');
 //canvas_id, width, height
 banner.initialize("canvas", 960, 130);
 ```
+[demo](https://vahansargsyan.github.io/happy-bubbles/)
